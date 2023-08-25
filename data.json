@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Fatih",
+      "age": 23,
+      "email": "fatih@mail.com"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Mehmet",
+      "age": 41,
+      "email": "mehmet@mail.com"
+    },
+    {
+      "name": "Ömer",
+      "email": "omer@mail.com",
+      "age": 28,
+      "id": "Sud17tE"
+    }
+  ]
+}
